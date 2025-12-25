@@ -66,7 +66,7 @@ The system utilizes a **Random Forest Regressor** (100 decision trees) to captur
 ## 🎓 Academic Context
 Developed for the **Machine Learning (UML501)** course at the **Department of Computer Science and Engineering, Thapar Institute of Engineering and Technology**.
 
-**Group Details (Sub-Group: 3Q11):**
-* Devansh Chhabra (102317041)
-* Neeraj (102317014)
-* **Submitted to:** Ms. Manisha Malik
+**Group Details (Sub-Group: 3C21):**
+* Aishani Shreya (102303250)
+* Hardik Tandon (102303252)
+* **Submitted to:** Dr. Mehak Gambhir
